@@ -1,0 +1,1162 @@
+{
+  "cine": "CineMax Premium",
+  "ubicacion": "Centro Comercial Galerías",
+  "salas": [
+    "Sala 1 - 4DX",
+    "Sala 2 - IMAX",
+    "Sala 3 - Standard",
+    "Sala 4 - VIP"
+  ],
+  "peliculas": [
+    {
+      "id": 541671,
+      "titulo": "Ballerina",
+      "genero": ["acción", "thriller", "crimen"],
+      "clasificacion": "B15",
+      "duracion": 118,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["13:20", "16:45", "20:15", "23:00"],
+      "precios": {
+        "general": 35.0,
+        "niños": 25.0,
+        "tercera_edad": 30.0,
+        "VIP": 50.0
+      },
+      "promociones": ["Jueves de thriller (2x1 en funciones después de 20:00)"],
+      "rating": 7.2,
+      "sinopsis": "Eve Macarro es una asesina entrenada por la Ruska Roma desde su infancia, en una violenta historia de venganza...",
+      "imagen": "https://image.tmdb.org/t/p/w500/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg"
+    },
+    {
+      "id": 986056,
+      "titulo": "Thunderbolts*",
+      "genero": ["acción", "ciencia ficción", "aventura"],
+      "clasificacion": "A",
+      "duracion": 132,
+      "formato": ["IMAX", "4DX", "Standard"],
+      "horarios": ["11:30", "15:00", "18:30", "21:45"],
+      "precios": {
+        "general": 40.0,
+        "niños": 30.0,
+        "tercera_edad": 35.0,
+        "VIP": 55.0
+      },
+      "promociones": ["Pack superheroes (4 entradas IMAX por S/140)"],
+      "rating": 7.4,
+      "sinopsis": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno...",
+      "imagen": "https://image.tmdb.org/t/p/w500/eA39qgcH3r2dA9MQMBPwEXS6F86.jpg"
+    },
+    {
+      "id": 574475,
+      "titulo": "Destino final: Lazos de sangre",
+      "genero": ["terror", "suspenso"],
+      "clasificacion": "C",
+      "duracion": 105,
+      "formato": ["Standard", "4DX"],
+      "horarios": ["14:00", "17:15", "20:30", "23:45"],
+      "precios": {
+        "general": 32.0,
+        "niños": 22.0,
+        "tercera_edad": 27.0,
+        "VIP": 47.0
+      },
+      "promociones": ["Noche de terror (Última función 20% descuento)"],
+      "rating": 7.2,
+      "sinopsis": "Acosada por una violenta pesadilla recurrente, Stefanie busca romper el ciclo de muertes que amenaza a su familia...",
+      "imagen": "https://image.tmdb.org/t/p/w500/frNkbclQpexf3aUzZrnixF3t5Hw.jpg"
+    },
+    {
+      "id": 846422,
+      "titulo": "La vieja guardia 2",
+      "genero": ["acción", "fantasía"],
+      "clasificacion": "B",
+      "duracion": 125,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["12:45", "16:00", "19:15", "22:30"],
+      "precios": {
+        "general": 38.0,
+        "niños": 28.0,
+        "tercera_edad": 33.0,
+        "VIP": 53.0
+      },
+      "promociones": ["Martes de acción (30% descuento)"],
+      "rating": 6.0,
+      "sinopsis": "Andy y su equipo de guerreros inmortales luchan con un propósito renovado...",
+      "imagen": "https://image.tmdb.org/t/p/w500/6eGyuK8bHMAB34AIIQOL3wZw8sn.jpg"
+    },
+    {
+      "id": 552524,
+      "titulo": "Lilo y Stitch",
+      "genero": ["animación", "familia", "comedia"],
+      "clasificacion": "A",
+      "duracion": 100,
+      "formato": ["Standard", "4DX"],
+      "horarios": ["10:00", "13:15", "16:30", "19:00"],
+      "precios": {
+        "general": 28.0,
+        "niños": 18.0,
+        "tercera_edad": 23.0,
+        "VIP": 43.0
+      },
+      "promociones": ["Miércoles infantil (2x1 en entradas niños)"],
+      "rating": 7.1,
+      "sinopsis": "La conmovedora historia de una solitaria niña hawaiana y el extraterrestre fugitivo...",
+      "imagen": "https://image.tmdb.org/t/p/w500/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg"
+    },
+    {
+      "id": 1087192,
+      "titulo": "Cómo entrenar a tu dragón",
+      "genero": ["animación", "aventura", "familia"],
+      "clasificacion": "A",
+      "duracion": 98,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["11:00", "14:30", "17:45", "20:15"],
+      "precios": {
+        "general": 30.0,
+        "niños": 20.0,
+        "tercera_edad": 25.0,
+        "VIP": 45.0
+      },
+      "promociones": ["Combo familiar (4 entradas + palomitas S/100)"],
+      "rating": 7.9,
+      "sinopsis": "Hipo entabla amistad con Desdentao, un temido dragón Furia Nocturna...",
+      "imagen": "https://image.tmdb.org/t/p/w500/sGFO6VshDEQ9vX4tOSobLJpkNhq.jpg"
+    },
+
+    {
+      "id": 950387,
+      "titulo": "Una película de Minecraft",
+      "genero": ["familia", "comedia", "aventura", "fantasía"],
+      "clasificacion": "A",
+      "duracion": 105,
+      "formato": ["Standard", "4DX"],
+      "horarios": ["11:00", "14:15", "17:30", "20:00"],
+      "precios": {
+        "general": 28.0,
+        "niños": 18.0,
+        "tercera_edad": 23.0,
+        "VIP": 48.0
+      },
+      "promociones": ["Domingo familiar (2 adultos + 2 niños por S/80)"],
+      "rating": 6.5,
+      "sinopsis": "Cuatro inadaptados son arrastrados a un mundo cúbico donde deberán dominar este extraño lugar con ayuda de Steve.",
+      "imagen": "https://image.tmdb.org/t/p/w500/rZYYmjgyF5UP1AVsvhzzDOFLCwG.jpg"
+    },
+    {
+      "id": 1408248,
+      "titulo": "El juego del calamar: Chimenea",
+      "genero": ["suspenso", "thriller"],
+      "clasificacion": "B15",
+      "duracion": 115,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["12:30", "16:00", "19:30", "23:00"],
+      "precios": {
+        "general": 35.0,
+        "niños": 25.0,
+        "tercera_edad": 30.0,
+        "VIP": 55.0
+      },
+      "promociones": ["Promo fan (entrada + combo edición limitada S/60)"],
+      "rating": 7.0,
+      "sinopsis": "Nueva entrega de la famosa serie coreana en formato cinematográfico.",
+      "imagen": "https://image.tmdb.org/t/p/w500/cIIMvxLztRs1MbXH0oqaw3SGV0q.jpg"
+    },
+    {
+      "id": 1087891,
+      "titulo": "Amateur",
+      "genero": ["thriller", "acción"],
+      "clasificacion": "B",
+      "duracion": 122,
+      "formato": ["Standard"],
+      "horarios": ["13:45", "17:15", "20:45"],
+      "precios": {
+        "general": 32.0,
+        "niños": 22.0,
+        "tercera_edad": 27.0,
+        "VIP": 52.0
+      },
+      "promociones": ["Jueves de thriller (2x1 después de 19:00)"],
+      "rating": 7.0,
+      "sinopsis": "Un decodificador de la CIA busca venganza tras la muerte de su esposa en un ataque terrorista.",
+      "imagen": "https://image.tmdb.org/t/p/w500/9WPWF0AmklsKclrXeyKXbQ543ZA.jpg"
+    },
+    {
+      "id": 1127110,
+      "titulo": "Diablo",
+      "genero": ["acción", "thriller"],
+      "clasificacion": "B15",
+      "duracion": 118,
+      "formato": ["IMAX", "4DX"],
+      "horarios": ["14:00", "17:30", "21:00"],
+      "precios": {
+        "general": 38.0,
+        "niños": 28.0,
+        "tercera_edad": 33.0,
+        "VIP": 58.0
+      },
+      "promociones": ["Combo acción (entrada + palomitas picantes S/45)"],
+      "rating": 7.1,
+      "sinopsis": "Historia de acción intensa con persecuciones y combates.",
+      "imagen": "https://image.tmdb.org/t/p/w500/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg"
+    },
+    {
+      "id": 1181039,
+      "titulo": "La tumba del rey maldito",
+      "genero": ["aventura", "terror"],
+      "clasificacion": "B",
+      "duracion": 110,
+      "formato": ["Standard"],
+      "horarios": ["15:00", "18:30", "22:00"],
+      "precios": {
+        "general": 30.0,
+        "niños": 20.0,
+        "tercera_edad": 25.0,
+        "VIP": 50.0
+      },
+      "promociones": ["Noche de misterio (20% descuento última función)"],
+      "rating": 6.7,
+      "sinopsis": "Aventureros buscan la Perla de Haochen para romper una maldición mortal.",
+      "imagen": "https://image.tmdb.org/t/p/w500/Ak5gLdMklxjPjKyUEUDK6P2wt2y.jpg"
+    },
+    {
+      "id": 1071585,
+      "titulo": "M3GAN 2.0",
+      "genero": ["ciencia ficción", "terror", "thriller"],
+      "clasificacion": "B15",
+      "duracion": 102,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["12:00", "15:30", "19:00", "22:30"],
+      "precios": {
+        "general": 36.0,
+        "niños": 26.0,
+        "tercera_edad": 31.0,
+        "VIP": 56.0
+      },
+      "promociones": ["Pack tecnológico (2 entradas IMAX + combo S/120)"],
+      "rating": 7.2,
+      "sinopsis": "M3GAN regresa mejorada y más letal para proteger a la humanidad.",
+      "imagen": "https://image.tmdb.org/t/p/w500/w8llBJfNIJoQY9UV8p1eOBTyEjP.jpg"
+    },
+    {
+      "id": 1240475,
+      "titulo": "Caza al mal",
+      "genero": ["Acción", "Policial"],
+      "clasificacion": "B15",
+      "duracion": 120,
+      "formato": ["Standard", "VIP"],
+      "horarios": ["14:00", "17:30", "21:00"],
+      "precios": {
+        "general": 28,
+        "niños": 18,
+        "tercera_edad": 22,
+        "VIP": 45
+      },
+      "promociones": ["Martes de descuento (20%)"],
+      "rating": 7.2,
+      "sinopsis": "Un agente policial y un misterioso hombre desentrañan una red de narcotráfico en la ciudad.",
+      "imagen": "https://image.tmdb.org/t/p/w500/n78hDmtawKOvJh3YLMcC5OJr2ER.jpg"
+    },
+    {
+      "id": 1239193,
+      "titulo": "Deep Cover: Actores encubiertos",
+      "genero": ["Acción", "Comedia", "Crimen"],
+      "clasificacion": "B15",
+      "duracion": 110,
+      "formato": ["4DX", "Standard"],
+      "horarios": ["15:15", "19:45", "22:30"],
+      "precios": {
+        "general": 30,
+        "niños": 20,
+        "tercera_edad": 25,
+        "VIP": 50
+      },
+      "promociones": ["Jueves de comedia (2x1 en combos)"],
+      "rating": 6.7,
+      "sinopsis": "Una profesora de teatro se infiltra en el crimen organizado con sus alumnos.",
+      "imagen": "https://image.tmdb.org/t/p/w500/dpLNAIU8AjAxw39fZfSDt2AiwMs.jpg"
+    },
+    {
+      "id": 1450599,
+      "titulo": "K.O.",
+      "genero": ["Acción", "Drama"],
+      "clasificacion": "B15",
+      "duracion": 95,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["13:00", "16:45", "20:15"],
+      "precios": {
+        "general": 32,
+        "niños": 22,
+        "tercera_edad": 27,
+        "VIP": 55
+      },
+      "promociones": ["Tardes económicas (S/25 antes de 17:00)"],
+      "rating": 6.6,
+      "sinopsis": "Un exluchador busca al hijo de su rival en los bajos fondos de Marsella.",
+      "imagen": "https://image.tmdb.org/t/p/w500/uiDmm9U2OhpLgBySmcNdhy2rxyF.jpg"
+    },
+    {
+      "id": 1379587,
+      "titulo": "Utopia",
+      "genero": ["Suspenso", "Ciencia ficción"],
+      "clasificacion": "B15",
+      "duracion": 105,
+      "formato": ["VIP", "Standard"],
+      "horarios": ["12:30", "18:00", "21:45"],
+      "precios": {
+        "general": 27,
+        "niños": 17,
+        "tercera_edad": 22,
+        "VIP": 48
+      },
+      "promociones": ["Pack misterio (entrada + palomitas S/35)"],
+      "rating": 5.5,
+      "sinopsis": "Un soldado busca a su esposa en un parque futurista donde nada es lo que parece.",
+      "imagen": "https://image.tmdb.org/t/p/w500/81PlfsAsb2wLY56UsbnUpMn80xh.jpg"
+    },
+    {
+      "id": 447273,
+      "titulo": "Blancanieves",
+      "genero": ["Fantasía", "Familiar"],
+      "clasificacion": "A",
+      "duracion": 115,
+      "formato": ["Standard", "4DX"],
+      "horarios": ["10:00", "13:30", "16:00", "19:00"],
+      "precios": {
+        "general": 25,
+        "niños": 15,
+        "tercera_edad": 20,
+        "VIP": 40
+      },
+      "promociones": ["Domingo familiar (niños gratis con adulto)"],
+      "rating": 4.3,
+      "sinopsis": "La clásica historia de Blancanieves y los siete enanos con un giro moderno.",
+      "imagen": "https://image.tmdb.org/t/p/w500/sm91FNDF6OOKU4hT9BDW6EMoyDB.jpg"
+    },
+    {
+      "id": 1414272,
+      "titulo": "Belyas",
+      "genero": ["Drama"],
+      "clasificacion": "B15",
+      "duracion": 115,
+      "formato": ["Standard"],
+      "horarios": ["15:00", "18:45", "21:30"],
+      "precios": {
+        "general": 25,
+        "niños": 15,
+        "tercera_edad": 20,
+        "VIP": 40
+      },
+      "promociones": ["Jueves de drama (2x1 en combos)"],
+      "rating": 7.1,
+      "sinopsis": "Historia dramática filipina sobre relaciones familiares complejas.",
+      "imagen": "https://image.tmdb.org/t/p/w500/5oJ6eMfI7B73cWh0VXaa5MzhfBW.jpg"
+    },
+    {
+      "id": 939243,
+      "titulo": "Sonic 3: La película",
+      "genero": ["Aventura", "Familia", "Acción"],
+      "clasificacion": "A",
+      "duracion": 105,
+      "formato": ["4DX", "Standard"],
+      "horarios": ["10:30", "13:45", "16:15", "19:00"],
+      "precios": {
+        "general": 30,
+        "niños": 20,
+        "tercera_edad": 25,
+        "VIP": 50
+      },
+      "promociones": ["Sábado familiar (niños 50% dto.)"],
+      "rating": 7.7,
+      "sinopsis": "Sonic y sus amigos enfrentan al poderoso Shadow en una nueva aventura.",
+      "imagen": "https://image.tmdb.org/t/p/w500/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg"
+    },
+    {
+      "id": 1022787,
+      "titulo": "Elio",
+      "genero": ["Animación", "Ciencia ficción", "Aventura"],
+      "clasificacion": "A",
+      "duracion": 98,
+      "formato": ["Standard", "VIP"],
+      "horarios": ["11:15", "14:30", "17:00"],
+      "precios": {
+        "general": 28,
+        "niños": 18,
+        "tercera_edad": 23,
+        "VIP": 45
+      },
+      "promociones": ["Pack cósmico (entrada + combo S/40)"],
+      "rating": 6.7,
+      "sinopsis": "Un niño se convierte en embajador intergaláctico de la Tierra.",
+      "imagen": "https://image.tmdb.org/t/p/w500/fGjwHlv8bCjZypi2bHbbSmyIGMV.jpg"
+    },
+    {
+      "id": 757725,
+      "titulo": "Shadow Force",
+      "genero": ["Acción", "Suspenso"],
+      "clasificacion": "B15",
+      "duracion": 118,
+      "formato": ["IMAX", "VIP"],
+      "horarios": ["12:00", "16:30", "20:45"],
+      "precios": {
+        "general": 35,
+        "niños": 25,
+        "tercera_edad": 30,
+        "VIP": 55
+      },
+      "promociones": ["Tardes de acción (S/30 antes de 17:00)"],
+      "rating": 6.3,
+      "sinopsis": "Una familia huye de su antigua organización de operaciones encubiertas.",
+      "imagen": "https://image.tmdb.org/t/p/w500/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg"
+    },
+    {
+      "id": 1011477,
+      "titulo": "Karate Kid: Legends",
+      "genero": ["Acción", "Artes marciales"],
+      "clasificacion": "B15",
+      "duracion": 112,
+      "formato": ["4DX", "Standard"],
+      "horarios": ["14:15", "17:45", "21:15"],
+      "precios": {
+        "general": 32,
+        "niños": 22,
+        "tercera_edad": 27,
+        "VIP": 52
+      },
+      "promociones": ["Clase maestra (entrada + seminario S/60)"],
+      "rating": 6.9,
+      "sinopsis": "Un joven prodigio fusiona estilos de lucha para un torneo decisivo.",
+      "imagen": "https://image.tmdb.org/t/p/w500/efNhiZPk71FTYJ30dBkWMfc939D.jpg"
+    },
+    {
+      "id": 762509,
+      "titulo": "Mufasa: El Rey León",
+      "genero": ["Animación", "Aventura", "Familia"],
+      "clasificacion": "A",
+      "duracion": 125,
+      "formato": ["Standard", "4DX"],
+      "horarios": ["10:30", "13:45", "16:30", "19:15"],
+      "precios": {
+        "general": 28,
+        "niños": 18,
+        "tercera_edad": 23,
+        "VIP": 45
+      },
+      "promociones": ["Domingo familiar (2 niños gratis con adulto)"],
+      "rating": 7.4,
+      "sinopsis": "La historia del joven Mufasa antes de convertirse en rey, contada por Rafiki a Kiara.",
+      "imagen": "https://image.tmdb.org/t/p/w500/dmw74cWIEKaEgl5Dv3kUTcCob6D.jpg"
+    },
+    {
+      "id": 533535,
+      "titulo": "Deadpool y Lobezno",
+      "genero": ["Acción", "Comedia", "Ciencia ficción"],
+      "clasificacion": "B15",
+      "duracion": 135,
+      "formato": ["IMAX", "VIP"],
+      "horarios": ["12:15", "15:30", "18:45", "22:00"],
+      "precios": {
+        "general": 35,
+        "niños": 25,
+        "tercera_edad": 30,
+        "VIP": 55
+      },
+      "promociones": ["Jueves de superhéroes (2x1 en combos)"],
+      "rating": 7.6,
+      "sinopsis": "Deadpool y Wolverine se unen para salvar su mundo natal de una amenaza existencial.",
+      "imagen": "https://image.tmdb.org/t/p/w500/9TFSqghEHrlBMRR63yTx80Orxva.jpg"
+    },
+    {
+      "id": 1011985,
+      "titulo": "Kung Fu Panda 4",
+      "genero": ["Animación", "Acción", "Comedia"],
+      "clasificacion": "A",
+      "duracion": 94,
+      "formato": ["Standard", "4DX"],
+      "horarios": ["11:00", "14:00", "16:45", "19:30"],
+      "precios": {
+        "general": 26,
+        "niños": 16,
+        "tercera_edad": 21,
+        "VIP": 42
+      },
+      "promociones": ["Miércoles de animación (entrada niño + combo S/30)"],
+      "rating": 7.1,
+      "sinopsis": "Po entrena a un nuevo guerrero dragón mientras enfrenta al villano Camaleón.",
+      "imagen": "https://image.tmdb.org/t/p/w500/7JspmokDnpm8SEg28wtstfGps0K.jpg"
+    },
+    {
+      "id": 519182,
+      "titulo": "Gru 4: Mi Villano Favorito",
+      "genero": ["Animación", "Comedia", "Aventura"],
+      "clasificacion": "A",
+      "duracion": 90,
+      "formato": ["Standard", "4DX"],
+      "horarios": ["10:15", "12:45", "15:15", "17:45"],
+      "precios": {
+        "general": 27,
+        "niños": 17,
+        "tercera_edad": 22,
+        "VIP": 44
+      },
+      "promociones": ["Pack Minions (entrada + peluche S/50)"],
+      "rating": 7.0,
+      "sinopsis": "Gru enfrenta a su némesis Maxime Le Mal mientras cuida de su nuevo hijo Gru Jr.",
+      "imagen": "https://image.tmdb.org/t/p/w500/iE9Pi1hkiLUm88uF7o9L9Yzl4lW.jpg"
+    },
+    {
+      "id": 912649,
+      "titulo": "Venom: El Último Baile",
+      "genero": ["Acción", "Ciencia ficción"],
+      "clasificacion": "B15",
+      "duracion": 118,
+      "formato": ["IMAX", "VIP"],
+      "horarios": ["14:30", "17:45", "21:00"],
+      "precios": {
+        "general": 34,
+        "niños": 24,
+        "tercera_edad": 29,
+        "VIP": 54
+      },
+      "promociones": ["Tardes de cómics (S/30 antes de 17:00)"],
+      "rating": 6.7,
+      "sinopsis": "Eddie Brock y Venom huyen mientras toman una decisión que cambiará su destino.",
+      "imagen": "https://image.tmdb.org/t/p/w500/8F74DwgFxTIBNtbqSLjR7zWmnHh.jpg"
+    },
+    {
+      "id": 617126,
+      "titulo": "Los Cuatro Fantásticos: Primeros pasos",
+      "genero": ["ciencia ficción", "aventura"],
+      "clasificacion": "A",
+      "duracion": 135,
+      "formato": ["IMAX", "4DX", "Standard"],
+      "horarios": ["12:00", "15:30", "19:00", "22:30"],
+      "precios": {
+        "general": 42.0,
+        "niños": 32.0,
+        "tercera_edad": 37.0,
+        "VIP": 62.0
+      },
+      "promociones": [
+        "Pack Marvel (2 entradas IMAX + 2 cómics coleccionables S/150)",
+        "Día Familiar (Sábados y domingos: 3er niño gratis)",
+        "Combo Fantástico (Entrada + bebida ilimitada + gorra temática S/55)"
+      ],
+      "rating": 0.0,
+      "sinopsis": "La Primera Familia de Marvel se enfrenta a Galactus en un mundo retrofuturista de los años 60.",
+      "imagen": "https://image.tmdb.org/t/p/w500/u6iFFGcOXk4d6C5pZes1qRgU8Nt.jpg"
+    },
+    {
+      "id": 135397,
+      "titulo": "Jurassic World",
+      "genero": ["aventura", "ciencia ficción", "acción"],
+      "clasificacion": "B",
+      "duracion": 124,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["11:45", "15:15", "18:45", "22:15"],
+      "precios": {
+        "general": 35.0,
+        "niños": 25.0,
+        "tercera_edad": 30.0,
+        "VIP": 55.0
+      },
+      "promociones": [
+        "Pack Dino (4 entradas + palomitas XL S/160)",
+        "Martes Prehistórico (25% descuento en combos)",
+        "VIP Extinto (Acceso a exposición de fósiles con entrada VIP)"
+      ],
+      "rating": 6.7,
+      "sinopsis": "Un parque con dinosaurios clonados se convierte en caos cuando un nuevo depredador escapa.",
+      "imagen": "https://image.tmdb.org/t/p/w500/sOgfattHPWE5sWdVCGHQ08GEbaP.jpg"
+    },
+    {
+      "id": 11544,
+      "titulo": "Lilo & Stitch",
+      "genero": ["animación", "familia", "comedia"],
+      "clasificacion": "A",
+      "duracion": 85,
+      "formato": ["Standard", "4DX"],
+      "horarios": ["10:30", "13:00", "16:15", "19:00"],
+      "precios": {
+        "general": 28.0,
+        "niños": 18.0,
+        "tercera_edad": 23.0,
+        "VIP": 48.0
+      },
+      "promociones": [
+        "Ohana Pack (2 adultos + 2 niños + 4 postres hawaianos S/110)",
+        "Doblaje Live (Funciones especiales con dobladores locales)",
+        "Stitch Loco (Niños disfrazados entran por S/10)"
+      ],
+      "rating": 7.6,
+      "sinopsis": "Una niña adopta a un extraño 'perro' que resulta ser un experimento genético alienígena.",
+      "imagen": "https://image.tmdb.org/t/p/w500/9jrmKyhNGam2pj89bcxmhQzXCNo.jpg"
+    },
+    {
+      "id": 1284120,
+      "titulo": "La hermanastra fea",
+      "genero": ["fantasía", "comedia", "drama"],
+      "clasificacion": "B15",
+      "duracion": 112,
+      "formato": ["Standard"],
+      "horarios": ["14:45", "17:30", "20:15", "23:00"],
+      "precios": {
+        "general": 32.0,
+        "niños": 22.0,
+        "tercera_edad": 27.0,
+        "VIP": 52.0
+      },
+      "promociones": [
+        "Promo Belleza (2x1 en entradas para parejas)",
+        "Combo Real (Entrada + corona dorada comestible S/40)",
+        "Descuento Estudiantes (25% con carnet vigente)"
+      ],
+      "rating": 7.2,
+      "sinopsis": "Una joven recurre a magia para competir con su hermosa hermanastra en un reino obsesionado con la belleza.",
+      "imagen": "https://image.tmdb.org/t/p/w500/mk4vGUy03tUCgJsOuwkYy877RYo.jpg"
+    },
+    {
+      "id": 157336,
+      "titulo": "Interstellar",
+      "genero": ["ciencia ficción", "drama", "aventura"],
+      "clasificacion": "B",
+      "duracion": 169,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["12:30", "16:45", "20:30"],
+      "precios": {
+        "general": 38.0,
+        "niños": 28.0,
+        "tercera_edad": 33.0,
+        "VIP": 58.0
+      },
+      "promociones": [
+        "Noche Cósmica (Última función con charla astronómica incluida)",
+        "Pack Científico (Entrada + libro de divulgación S/60)",
+        "Promo Universo (30% descuento para clubes de ciencia)"
+      ],
+      "rating": 8.5,
+      "sinopsis": "Exploradores viajan a través de un agujero de gusano en una misión para salvar a la humanidad.",
+      "imagen": "https://image.tmdb.org/t/p/w500/cQuuBjG78j4b2r1dFpAjnjbUplv.jpg"
+    },
+    {
+      "id": 823219,
+      "titulo": "Flow, un mundo que salvar",
+      "genero": ["animación", "aventura", "fantasía"],
+      "clasificacion": "A",
+      "duracion": 95,
+      "formato": ["Standard", "4DX"],
+      "horarios": ["11:30", "14:45", "17:30", "20:15"],
+      "precios": {
+        "general": 30.0,
+        "niños": 20.0,
+        "tercera_edad": 25.0,
+        "VIP": 50.0
+      },
+      "promociones": [
+        "Pack Ecológico (entrada + donación a WWF S/40)",
+        "Día Animal (50% descuento para mascotas de peluche)",
+        "Combo Flow (entrada niño + libro ilustrado S/35)"
+      ],
+      "rating": 8.2,
+      "sinopsis": "Un gato y otros animales navegan juntos en un barco tras una gran inundación que cambió su mundo.",
+      "imagen": "https://image.tmdb.org/t/p/w500/337MqZW7xii2evUDVeaWXAtopff.jpg"
+    },
+    {
+      "id": 872585,
+      "titulo": "Oppenheimer",
+      "genero": ["drama", "histórico"],
+      "clasificacion": "B15",
+      "duracion": 180,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["13:00", "17:15", "21:30"],
+      "precios": {
+        "general": 38.0,
+        "niños": 28.0,
+        "tercera_edad": 33.0,
+        "VIP": 58.0
+      },
+      "promociones": [
+        "Pack Científico (entrada + libro de física S/65)",
+        "Estudiantes de Historia (30% descuento con carnet)",
+        "VIP Atómico (butaca premium + cóctel temático S/80)"
+      ],
+      "rating": 8.1,
+      "sinopsis": "La historia del físico J. Robert Oppenheimer y su papel en el desarrollo de la bomba atómica.",
+      "imagen": "https://image.tmdb.org/t/p/w500/5t05uhX5ULn8Um2f1ZuznVvIffU.jpg"
+    },
+    {
+      "id": 361743,
+      "titulo": "Top Gun: Maverick",
+      "genero": ["acción", "drama"],
+      "clasificacion": "B",
+      "duracion": 131,
+      "formato": ["IMAX", "4DX", "Standard"],
+      "horarios": ["12:15", "15:30", "19:00", "22:45"],
+      "precios": {
+        "general": 42.0,
+        "niños": 32.0,
+        "tercera_edad": 37.0,
+        "VIP": 62.0
+      },
+      "promociones": [
+        "Pack Aviador (2 entradas IMAX + gafas de piloto S/150)",
+        "Día Militar (25% descuento para fuerzas armadas)",
+        "Combo Mach 1 (entrada + combo XXL S/55)"
+      ],
+      "rating": 8.2,
+      "sinopsis": "Pete 'Maverick' Mitchell entrena a nuevos pilotos para una peligrosa misión especial.",
+      "imagen": "https://image.tmdb.org/t/p/w500/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg"
+    },
+    {
+      "id": 603692,
+      "titulo": "John Wick 4",
+      "genero": ["acción", "thriller", "crimen"],
+      "clasificacion": "C",
+      "duracion": 169,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["14:00", "18:00", "22:00"],
+      "precios": {
+        "general": 40.0,
+        "niños": 30.0,
+        "tercera_edad": 35.0,
+        "VIP": 60.0
+      },
+      "promociones": [
+        "Noche de Acción (20% descuento última función)",
+        "Pack Wick (entrada + cóctel 'Bloody Marker' S/70)",
+        "VIP Continental (acceso lounge exclusivo S/90)"
+      ],
+      "rating": 7.7,
+      "sinopsis": "John Wick lucha contra la Alta Mesa para ganar su libertad.",
+      "imagen": "https://image.tmdb.org/t/p/w500/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg"
+    },
+    {
+      "id": 299536,
+      "titulo": "Vengadores: Infinity War",
+      "genero": ["acción", "aventura", "ciencia ficción"],
+      "clasificacion": "A",
+      "duracion": 149,
+      "formato": ["IMAX", "4DX", "Standard"],
+      "horarios": ["11:00", "14:30", "18:15", "22:00"],
+      "precios": {
+        "general": 45.0,
+        "niños": 35.0,
+        "tercera_edad": 40.0,
+        "VIP": 65.0
+      },
+      "promociones": [
+        "Maratón Marvel (ver 2 películas Marvel por S/70)",
+        "Pack Thanos (entrada + guantelete coleccionable S/120)",
+        "Día de Superhéroes (niños disfrazados entran por S/15)"
+      ],
+      "rating": 8.2,
+      "sinopsis": "Los Vengadores se unen para detener a Thanos y su plan de destrucción universal.",
+      "imagen": "https://image.tmdb.org/t/p/w500/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg"
+    },
+    {
+      "id": 897160,
+      "titulo": "Mujer Valiente",
+      "genero": ["acción", "drama", "comedia"],
+      "clasificacion": "B15",
+      "duracion": 110,
+      "formato": ["Standard"],
+      "horarios": ["12:30", "15:45", "19:15", "22:30"],
+      "precios": {
+        "general": 35.0,
+        "niños": 25.0,
+        "tercera_edad": 30.0,
+        "VIP": 50.0
+      },
+      "promociones": ["Miércoles de acción (25% descuento)"],
+      "rating": 7.0,
+      "sinopsis": "Una ex boxeadora convertida en maestra temporal enfrenta injusticias mientras lucha por convertirse en profesora titular...",
+      "imagen": "https://image.tmdb.org/t/p/w500/hdqbujWmlmsdVm62Ob8sGuC2kDk.jpg"
+    },
+    {
+      "id": 1097311,
+      "titulo": "Echo Valley",
+      "genero": ["thriller", "drama"],
+      "clasificacion": "B15",
+      "duracion": 98,
+      "formato": ["Standard"],
+      "horarios": ["13:00", "16:20", "20:00", "23:20"],
+      "precios": {
+        "general": 38.0,
+        "niños": 28.0,
+        "tercera_edad": 33.0,
+        "VIP": 55.0
+      },
+      "promociones": [],
+      "rating": 6.5,
+      "sinopsis": "Kate intenta ayudar a su problemática hija Claire cuando aparece cubierta de sangre, revelando una terrible verdad...",
+      "imagen": "https://image.tmdb.org/t/p/w500/1E4WCgTodyS7zo8pSp1gZlPO0th.jpg"
+    },
+    {
+      "id": 1084199,
+      "titulo": "La acompañante",
+      "genero": ["terror", "ciencia ficción", "thriller"],
+      "clasificacion": "C",
+      "duracion": 105,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["11:45", "14:30", "18:15", "21:45"],
+      "precios": {
+        "general": 40.0,
+        "niños": 30.0,
+        "tercera_edad": 35.0,
+        "VIP": 60.0
+      },
+      "promociones": ["Noches de terror (2x1 después de 20:00)"],
+      "rating": 7.1,
+      "sinopsis": "La muerte de un multimillonario desencadena eventos sobrenaturales durante un viaje a su finca...",
+      "imagen": "https://image.tmdb.org/t/p/w500/dZR98C2Tzefugivw21yEfYvp1G9.jpg"
+    },
+    {
+      "id": 411,
+      "titulo": "Las crónicas de Narnia: El león, la bruja y el armario",
+      "genero": ["aventura", "familia", "fantasía"],
+      "clasificacion": "A",
+      "duracion": 143,
+      "formato": ["4DX", "Standard"],
+      "horarios": ["10:30", "14:00", "17:30", "21:00"],
+      "precios": {
+        "general": 35.0,
+        "niños": 25.0,
+        "tercera_edad": 30.0,
+        "VIP": 50.0
+      },
+      "promociones": ["Plan familiar (4 entradas por $100)"],
+      "rating": 7.1,
+      "sinopsis": "Cuatro hermanos descubren Narnia a través de un armario mágico y luchan contra la Bruja Blanca...",
+      "imagen": "https://image.tmdb.org/t/p/w500/2Lv2wKf2YocOcRfzmvQYOUGRhFg.jpg"
+    },
+    {
+      "id": 638507,
+      "titulo": "Cómo entrenar a tu dragón: Vuelta a casa",
+      "genero": ["animación", "fantasía", "aventura", "acción", "familia"],
+      "clasificacion": "A",
+      "duracion": 104,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["11:00", "13:30", "16:00", "18:30"],
+      "precios": {
+        "general": 35.0,
+        "niños": 25.0,
+        "tercera_edad": 30.0,
+        "VIP": 50.0
+      },
+      "promociones": ["Sábados infantiles (50% descuento niños)"],
+      "rating": 8.0,
+      "sinopsis": "Hiccup continúa las tradiciones navideñas con los dragones para mantener viva su memoria en el pueblo...",
+      "imagen": "https://image.tmdb.org/t/p/w500/n12wESAYZNqa88h4EzdD25bJRYR.jpg"
+    },
+    {
+      "id": 120,
+      "titulo": "El señor de los anillos: La comunidad del anillo",
+      "genero": ["aventura", "fantasía", "acción"],
+      "clasificacion": "B",
+      "duracion": 178,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["11:00", "15:00", "19:30", "23:00"],
+      "precios": {
+        "general": 40.0,
+        "niños": 30.0,
+        "tercera_edad": 35.0,
+        "VIP": 60.0
+      },
+      "promociones": ["Jueves de fantasía (2x1 en funciones nocturnas)"],
+      "rating": 8.4,
+      "sinopsis": "Frodo emprende un peligroso viaje para destruir el Anillo Único y evitar que Sauron esclavice la Tierra Media...",
+      "imagen": "https://image.tmdb.org/t/p/w500/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg"
+    },
+    {
+      "id": 575264,
+      "titulo": "Misión: Imposible - Sentencia mortal parte uno",
+      "genero": ["acción", "aventura", "thriller"],
+      "clasificacion": "B15",
+      "duracion": 163,
+      "formato": ["4DX", "IMAX", "Standard"],
+      "horarios": ["12:30", "16:15", "20:00", "23:45"],
+      "precios": {
+        "general": 45.0,
+        "niños": 35.0,
+        "tercera_edad": 40.0,
+        "VIP": 65.0
+      },
+      "promociones": ["Pack acción (4 entradas IMAX por $160)"],
+      "rating": 7.5,
+      "sinopsis": "Ethan Hunt rastrea una peligrosa arma que amenaza a la humanidad antes de que caiga en manos enemigas...",
+      "imagen": "https://image.tmdb.org/t/p/w500/83sGKvCv2T2CulYbd40Aeduc7n2.jpg"
+    },
+    {
+      "id": 402431,
+      "titulo": "Wicked",
+      "genero": ["drama", "romance", "fantasía"],
+      "clasificacion": "A",
+      "duracion": 145,
+      "formato": ["Standard"],
+      "horarios": ["13:45", "17:30", "21:15"],
+      "precios": {
+        "general": 38.0,
+        "niños": 28.0,
+        "tercera_edad": 33.0,
+        "VIP": 55.0
+      },
+      "promociones": ["Martes musicales (25% descuento)"],
+      "rating": 6.9,
+      "sinopsis": "La historia de Elphaba, la Bruja Malvada del Oeste, y su amistad con Glinda en la Tierra de Oz...",
+      "imagen": "https://image.tmdb.org/t/p/w500/hDQXqvmmikekQ15uxhisBDwEA63.jpg"
+    },
+    {
+      "id": 297762,
+      "titulo": "Wonder Woman",
+      "genero": ["acción", "aventura", "fantasía"],
+      "clasificacion": "B",
+      "duracion": 141,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["11:30", "15:15", "19:00", "22:30"],
+      "precios": {
+        "general": 40.0,
+        "niños": 30.0,
+        "tercera_edad": 35.0,
+        "VIP": 60.0
+      },
+      "promociones": ["Día de superheroínas (entrada femenina 30% off)"],
+      "rating": 7.2,
+      "sinopsis": "Diana, princesa de las Amazonas, abandona su hogar para luchar en la Primera Guerra Mundial como Wonder Woman...",
+      "imagen": "https://image.tmdb.org/t/p/w500/yjzHtHSAPDdRQejnTyFbifX2gef.jpg"
+    },
+    {
+      "id": 693134,
+      "titulo": "Dune: Parte dos",
+      "genero": ["ciencia ficción", "aventura"],
+      "clasificacion": "B15",
+      "duracion": 166,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["12:00", "16:00", "20:00", "23:30"],
+      "precios": {
+        "general": 45.0,
+        "niños": 35.0,
+        "tercera_edad": 40.0,
+        "VIP": 65.0
+      },
+      "promociones": [],
+      "rating": 8.1,
+      "sinopsis": "Paul Atreides se une a los Fremen en una guerra de venganza mientras enfrenta su destino en el universo...",
+      "imagen": "https://image.tmdb.org/t/p/w500/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg"
+    },
+    {
+      "id": 550,
+      "titulo": "El Club de la Lucha",
+      "genero": ["drama"],
+      "clasificacion": "C",
+      "duracion": 139,
+      "formato": ["Standard"],
+      "horarios": ["15:30", "19:45", "23:15"],
+      "precios": {
+        "general": 38.0,
+        "niños": 28.0,
+        "tercera_edad": 33.0,
+        "VIP": 55.0
+      },
+      "promociones": ["Lunes de cine de culto (20% descuento)"],
+      "rating": 8.4,
+      "sinopsis": "Un hombre con insomnio forma un club secreto de lucha con un carismático vendedor de jabón, desencadenando una espiral de caos y autodestrucción...",
+      "imagen": "https://image.tmdb.org/t/p/w500/sgTAWJFaB2kBvdQxRGabYFiQqEK.jpg"
+    },
+    {
+      "id": 673,
+      "titulo": "Harry Potter y el prisionero de Azkaban",
+      "genero": ["aventura", "fantasía"],
+      "clasificacion": "A",
+      "duracion": 142,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["12:00", "15:15", "18:30", "21:45"],
+      "precios": {
+        "general": 40.0,
+        "niños": 30.0,
+        "tercera_edad": 35.0,
+        "VIP": 60.0
+      },
+      "promociones": ["Pack familiar (4 entradas por $120)"],
+      "rating": 8.0,
+      "sinopsis": "Harry descubre que un peligroso prisionero ha escapado de Azkaban y parece estar tras él, mientras aprende más sobre el pasado de sus padres...",
+      "imagen": "https://image.tmdb.org/t/p/w500/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg"
+    },
+    {
+      "id": 807,
+      "titulo": "Seven",
+      "genero": ["crimen", "misterio", "thriller"],
+      "clasificacion": "C",
+      "duracion": 127,
+      "formato": ["Standard"],
+      "horarios": ["17:00", "20:30", "23:45"],
+      "precios": {
+        "general": 38.0,
+        "niños": 28.0,
+        "tercera_edad": 33.0,
+        "VIP": 55.0
+      },
+      "promociones": ["Jueves de thriller (2x1 en funciones nocturnas)"],
+      "rating": 8.4,
+      "sinopsis": "Dos detectives investigan una serie de crímenes brutales basados en los siete pecados capitales cometidos por un misterioso asesino...",
+      "imagen": "https://image.tmdb.org/t/p/w500/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg"
+    },
+    {
+      "id": 22,
+      "titulo": "Piratas del Caribe: La maldición de la Perla Negra",
+      "genero": ["aventura", "fantasía", "acción"],
+      "clasificacion": "A",
+      "duracion": 143,
+      "formato": ["4DX", "IMAX", "Standard"],
+      "horarios": ["11:30", "14:45", "18:00", "21:15"],
+      "precios": {
+        "general": 45.0,
+        "niños": 35.0,
+        "tercera_edad": 40.0,
+        "VIP": 65.0
+      },
+      "promociones": ["Fin de semana pirata (disfrazados 20% descuento)"],
+      "rating": 7.8,
+      "sinopsis": "El excéntrico capitán Jack Sparrow se une a Will Turner para rescatar a Elizabeth Swann y recuperar su barco de su antiguo primer oficial Barbossa...",
+      "imagen": "https://image.tmdb.org/t/p/w500/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg"
+    },
+    {
+      "id": 862,
+      "titulo": "Toy Story",
+      "genero": ["animación", "aventura", "familia", "comedia"],
+      "clasificacion": "A",
+      "duracion": 81,
+      "formato": ["Standard"],
+      "horarios": ["10:30", "13:00", "15:30", "18:00"],
+      "precios": {
+        "general": 35.0,
+        "niños": 25.0,
+        "tercera_edad": 30.0,
+        "VIP": 50.0
+      },
+      "promociones": ["Sábados infantiles (50% descuento niños)"],
+      "rating": 8.0,
+      "sinopsis": "Los juguetes de Andy cobran vida cuando los humanos no están presentes, liderados por el vaquero Woody hasta la llegada del nuevo juguete Buzz Lightyear...",
+      "imagen": "https://image.tmdb.org/t/p/w500/jvn7wy3RSNEXnFSXLpH2of2LcV6.jpg"
+    },
+    {
+      "id": 302946,
+      "titulo": "El contable",
+      "genero": ["crimen", "thriller", "drama"],
+      "clasificacion": "B15",
+      "duracion": 128,
+      "formato": ["Standard"],
+      "horarios": ["16:15", "19:30", "22:45"],
+      "precios": {
+        "general": 38.0,
+        "niños": 28.0,
+        "tercera_edad": 33.0,
+        "VIP": 55.0
+      },
+      "promociones": ["Martes de thriller (25% descuento)"],
+      "rating": 7.1,
+      "sinopsis": "Christian Wolff, un genio matemático con afinidad por los números, lleva una doble vida como contable brillante y despiadado asesino.",
+      "imagen": "https://image.tmdb.org/t/p/w500/1Bd9ItSLT13u8Na0PApQAMcW1Jw.jpg"
+    },
+    {
+      "id": 578,
+      "titulo": "Tiburón",
+      "genero": ["terror", "thriller", "aventura"],
+      "clasificacion": "B",
+      "duracion": 124,
+      "formato": ["IMAX", "Standard"],
+      "horarios": ["14:00", "17:15", "20:30"],
+      "precios": {
+        "general": 40.0,
+        "niños": 30.0,
+        "tercera_edad": 35.0,
+        "VIP": 60.0
+      },
+      "promociones": ["Clásicos del verano (2x1 en funciones matutinas)"],
+      "rating": 7.7,
+      "sinopsis": "Un enorme tiburón blanco aterroriza un pueblo costero, llevando a un grupo de hombres a embarcarse en una peligrosa misión de caza.",
+      "imagen": "https://image.tmdb.org/t/p/w500/85MbaRlyfZfZGVHoFy2Am53oVYt.jpg"
+    },
+    {
+      "id": 429,
+      "titulo": "El bueno, el feo y el malo",
+      "genero": ["western"],
+      "clasificacion": "B",
+      "duracion": 161,
+      "formato": ["Standard"],
+      "horarios": ["13:30", "17:45", "22:00"],
+      "precios": {
+        "general": 35.0,
+        "niños": 25.0,
+        "tercera_edad": 30.0,
+        "VIP": 50.0
+      },
+      "promociones": ["Miércoles de clásicos (20% descuento)"],
+      "rating": 8.5,
+      "sinopsis": "Tres cazadores de recompensas compiten por encontrar un tesoro escondido durante la Guerra Civil estadounidense en este western épico.",
+      "imagen": "https://image.tmdb.org/t/p/w500/rDD8KmcPLfHabdPMs7S7XjKL1mV.jpg"
+    },
+    {
+      "id": 13,
+      "titulo": "Forrest Gump",
+      "genero": ["comedia", "drama", "romance"],
+      "clasificacion": "B",
+      "duracion": 142,
+      "formato": ["Standard"],
+      "horarios": ["15:00", "18:30", "22:00"],
+      "precios": {
+        "general": 38.0,
+        "niños": 28.0,
+        "tercera_edad": 33.0,
+        "VIP": 55.0
+      },
+      "promociones": ["Noches de drama (2x1 después de 20:00)"],
+      "rating": 8.5,
+      "sinopsis": "Forrest Gump, un hombre con discapacidad intelectual, vive extraordinarias aventuras mientras influye en momentos clave de la historia estadounidense.",
+      "imagen": "https://image.tmdb.org/t/p/w500/oiqKEhEfxl9knzWXvWecJKN3aj6.jpg"
+    },
+    {
+      "id": 823464,
+      "titulo": "Godzilla y Kong: El nuevo imperio",
+      "genero": ["acción", "aventura", "ciencia ficción"],
+      "clasificacion": "A",
+      "duracion": 115,
+      "formato": ["IMAX", "4DX", "Standard"],
+      "horarios": ["12:30", "15:45", "19:00", "22:15"],
+      "precios": {
+        "general": 45.0,
+        "niños": 35.0,
+        "tercera_edad": 40.0,
+        "VIP": 65.0
+      },
+      "promociones": ["Pack monstruoso (4 entradas IMAX por $160)"],
+      "rating": 7.1,
+      "sinopsis": "Godzilla y Kong se unen para enfrentar una amenaza colosal que pone en peligro tanto a los titanes como a la humanidad.",
+      "imagen": "https://image.tmdb.org/t/p/w500/2YqZ6IyFk7menirwziJvfoVvSOh.jpg"
+    }
+  ],
+  "promociones_generales": [
+    {
+      "nombre": "Tardes económicas",
+      "descripcion": "Entradas a S/20 en funciones antes de las 16:00",
+      "dias": ["Lunes a viernes"]
+    },
+    {
+      "nombre": "Combo Clásico",
+      "descripcion": "Palomitas medianas + refresco por S/15",
+      "valido": "Todo el día"
+    }
+  ],
+  "combos": [
+    {
+      "nombre": "Combo Clásico",
+      "contenido": "Palomitas medianas + refresco",
+      "precio": 18,
+      "descuento": 15
+    },
+    {
+      "nombre": "Combo Acción",
+      "contenido": "Hot dog + refresco + nachos",
+      "precio": 25,
+      "descuento": 10
+    }
+  ]
+}
