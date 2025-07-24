@@ -1,5 +1,8 @@
-Integrantes : 
--Yahir Sergio Choquehuanca Chipana 2021-119014
-\n -Davis Brandom Ccoica Quispe       2021-119103
+# Proyecto ChatBot
 
-URL PAGINA CHATBOT -> https://front-chat-bot.vercel.app/
+## Integrantes
+- **Yahir Sergio Choquehuanca Chipana** - 2021-119014  
+- **Davis Brandom Ccoica Quispe** - 2021-119103
+
+## URL del Chatbot
+👉 [Ir al Chatbot](https://front-chat-bot.vercel.app/)
